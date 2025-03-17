@@ -49,15 +49,3 @@ crypto-prediction/
 ├── tests/            # Test files
 └── requirements.txt  # Project dependencies
 ```
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Disclaimer
-
-This project is for educational purposes only. Cryptocurrency trading involves substantial risk, and no financial advice is provided through this tool. Always do your own research before making investment decisions.
